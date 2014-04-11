@@ -1,5 +1,7 @@
-Automatic building with Grunt
+RequireJS plugin - dealyed
 ==========
+
+Allows to write async modules, adds `module.config().ready()` callback.
 
 ### Includes:
 
